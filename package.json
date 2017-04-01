@@ -1,0 +1,13 @@
+{
+  "name": "craftix-api",
+  "version": "1.0.0",
+  "description": "Craftix API for launchers",
+  "main": "index.js",
+  "repository": "git@github.com:craftix/craftix-api.git",
+  "author": "<adrien1975@live.fr>",
+  "license": "LGPL-3.0",
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
